@@ -6,18 +6,18 @@
     <description>Recent content on 陈修宁的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jul 2019 15:35:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2019 16:27:57 +0800</lastBuildDate>
     
 	<atom:link href="https://jokchen.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Blog</title>
-      <link>https://jokchen.github.io/post/first-blog/</link>
-      <pubDate>Wed, 31 Jul 2019 15:35:39 +0800</pubDate>
+      <title>First Test</title>
+      <link>https://jokchen.github.io/post/first-test/</link>
+      <pubDate>Wed, 31 Jul 2019 16:27:57 +0800</pubDate>
       
-      <guid>https://jokchen.github.io/post/first-blog/</guid>
-      <description>今天开启博客的第一天，有点小激动！</description>
+      <guid>https://jokchen.github.io/post/first-test/</guid>
+      <description>testvadsfdsdfsa fdasfdasf fdasfdsa adfasfdas</description>
     </item>
     
   </channel>
